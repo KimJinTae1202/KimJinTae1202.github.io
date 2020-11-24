@@ -1,7 +1,7 @@
 
 ---
 title:"프로젝트 소개를 위한 테스트"
-permalink:/project/
+permalink:https://kimjintae1202.github.io/project
 layout:single
 ---
 

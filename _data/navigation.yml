@@ -3,9 +3,9 @@ main:
   - title: "My Blog"
     url: https://kimjintae1202.github.io/blog
   - title: "프로젝트"
-    url: /project/
+    url: https://kimjintae1202.github.io/project
   - title: "공부 이야기"
-    url: /study/
+    url: https://kimjintae1202.github.io/study
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
