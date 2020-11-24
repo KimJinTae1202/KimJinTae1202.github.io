@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "My Blog"
-    url: https://kimjintae1202.github.io/blog
-  - title: "프로젝트"
-    url: https://kimjintae1202.github.io/project
-  - title: "공부 이야기"
-    url: https://kimjintae1202.github.io/study
+  - title: "Study Blog"
+    url: 
+  - title: "Categories"
+    url: '/categories/'
+  - title: "About"
+    url: 
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
